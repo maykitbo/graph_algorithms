@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/AlgorithmsTests.dir/AlgoritmsTests.cc.o -o AlgorithmsTests  -lgtest -lgtest_main GraphAlgorithms/s21_graph_algorithms.a Graph/s21_graph.a matrix/matrix.a utility/cpp_utilites.a containers/containers.a 

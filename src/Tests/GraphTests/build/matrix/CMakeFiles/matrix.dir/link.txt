@@ -1,0 +1,2 @@
+/usr/bin/ar qc matrix.a CMakeFiles/matrix.dir/Dummy.cc.o
+/usr/bin/ranlib matrix.a

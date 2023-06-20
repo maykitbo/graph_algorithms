@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/SalesmanTests.dir/SalesmanTests.cc.o CMakeFiles/SalesmanTests.dir/home/alexey/projects/A2_SimpleNavigator_v1.0-0/src/TslCompare/Compare.cc.o -o SalesmanTests  -lgtest -lgtest_main GraphAlgorithms/s21_graph_algorithms.a Graph/s21_graph.a matrix/matrix.a utility/cpp_utilites.a containers/containers.a 

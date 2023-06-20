@@ -1,0 +1,2 @@
+/usr/bin/ar qc s21_graph.a CMakeFiles/s21_graph.a.dir/Graph.cc.o
+/usr/bin/ranlib s21_graph.a

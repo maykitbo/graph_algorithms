@@ -1,0 +1,12 @@
+/home/alexey/projects/A2_SimpleNavigator_v1.0-0/src/Tests/GraphTests/build/CMakeFiles/GraphTests.dir
+/home/alexey/projects/A2_SimpleNavigator_v1.0-0/src/Tests/GraphTests/build/CMakeFiles/edit_cache.dir
+/home/alexey/projects/A2_SimpleNavigator_v1.0-0/src/Tests/GraphTests/build/CMakeFiles/rebuild_cache.dir
+/home/alexey/projects/A2_SimpleNavigator_v1.0-0/src/Tests/GraphTests/build/Graph/CMakeFiles/s21_graph.a.dir
+/home/alexey/projects/A2_SimpleNavigator_v1.0-0/src/Tests/GraphTests/build/Graph/CMakeFiles/edit_cache.dir
+/home/alexey/projects/A2_SimpleNavigator_v1.0-0/src/Tests/GraphTests/build/Graph/CMakeFiles/rebuild_cache.dir
+/home/alexey/projects/A2_SimpleNavigator_v1.0-0/src/Tests/GraphTests/build/matrix/CMakeFiles/matrix.dir
+/home/alexey/projects/A2_SimpleNavigator_v1.0-0/src/Tests/GraphTests/build/matrix/CMakeFiles/edit_cache.dir
+/home/alexey/projects/A2_SimpleNavigator_v1.0-0/src/Tests/GraphTests/build/matrix/CMakeFiles/rebuild_cache.dir
+/home/alexey/projects/A2_SimpleNavigator_v1.0-0/src/Tests/GraphTests/build/utility/CMakeFiles/utility.dir
+/home/alexey/projects/A2_SimpleNavigator_v1.0-0/src/Tests/GraphTests/build/utility/CMakeFiles/edit_cache.dir
+/home/alexey/projects/A2_SimpleNavigator_v1.0-0/src/Tests/GraphTests/build/utility/CMakeFiles/rebuild_cache.dir

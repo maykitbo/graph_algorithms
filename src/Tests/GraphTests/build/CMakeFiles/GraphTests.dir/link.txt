@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/GraphTests.dir/GraphTests.cc.o -o GraphTests  -lgtest -lgtest_main Graph/s21_graph.a matrix/matrix.a utility/cpp_utilites.a 

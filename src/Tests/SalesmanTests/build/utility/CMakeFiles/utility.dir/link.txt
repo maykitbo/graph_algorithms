@@ -1,0 +1,2 @@
+/usr/bin/ar qc cpp_utilites.a CMakeFiles/utility.dir/Dummy.cc.o
+/usr/bin/ranlib cpp_utilites.a
